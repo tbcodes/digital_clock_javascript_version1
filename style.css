@@ -3,9 +3,8 @@ body {
 }
 @font-face {
     font-family: "DS-Digital";
-    src: url("DS-DIGIT.TTF") format('truetype');
-    font-weight: normal;
-    font-style: normal;
+    src: url("../digital_clock_javascript_version1/DS-DIGIT.TTF") format('truetype');
+    
 }
 
 div {
