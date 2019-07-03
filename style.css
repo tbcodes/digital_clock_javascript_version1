@@ -3,7 +3,7 @@ body {
 }
 @font-face {
     font-family: F16;
-    src: url("../DS-DIGIT.TTF") format('truetype');
+    src: url("DS-DIGIT.TTF") format('truetype');
     font-weight: normal;
     font-style: normal;
 }
