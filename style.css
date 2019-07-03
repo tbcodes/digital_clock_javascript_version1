@@ -2,7 +2,7 @@ body {
     background: #444444;
 }
 @font-face {
-    font-family: F16;
+    font-family: "DS-Digital";
     src: url("DS-DIGIT.TTF") format('truetype');
     font-weight: normal;
     font-style: normal;
