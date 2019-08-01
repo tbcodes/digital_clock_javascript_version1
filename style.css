@@ -24,7 +24,7 @@ h1 {
     text-align: center;   
 }
 
-// Desktop First approach
+/* Desktop First approach */
 @media (max-width: 600px) {
     h1 {
         font-size: 5rem;
